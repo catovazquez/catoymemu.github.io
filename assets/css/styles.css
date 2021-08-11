@@ -346,7 +346,7 @@ section.confirmar-asistencia p{
 section.dresscode{
   text-align: center;
   padding: 70px 0 70px;
-  background-color:#96b184;
+  background-color:var(--color-primario);
 }
 
 section.dresscode h4 {
